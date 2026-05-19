@@ -2,6 +2,9 @@
 
 [![Live Demo](#)](https://your-demo-link.com)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<img width="1025" height="860" alt="Screenshot 2026-05-19 102948" src="https://github.com/user-attachments/assets/74bf6956-d2d5-4725-9676-812b52540ffa" />
+
+
 
 A modern, responsive personal portfolio website for **Yoosuf Mohamed Ismail** – an aspiring IT professional, full‑stack developer, and tech enthusiast. Built with pure HTML, CSS, and JavaScript.
 
