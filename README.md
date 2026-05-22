@@ -9,11 +9,6 @@ A modern, responsive personal portfolio website to showcase my work, skills, and
 
 ![Portfolio Preview](![Uploading Screenshot 2026-05-22 235135.png…]()
 )  
-*(Replace this placeholder with an actual screenshot of your portfolio)*
-
-## 🚀 Live Demo
-
-🔗 **View the live site:** [yoosufismail-portfolio.netlify.app]
 
 ## ✨ Features
 
