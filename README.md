@@ -3,9 +3,7 @@
 
 # 💼 Personal Portfolio
 
-[![GitHub stars](https://img.shields.io/github/stars/YOOSUFISMAIL-IT/PORTFOLIO?style=social)](https://github.com/YOOSUFISMAIL-IT/PORTFOLIO/stargazers)
-[![GitHub last commit](https://img.shields.io/github/last-commit/YOOSUFISMAIL-IT/PORTFOLIO)](https://github.com/YOOSUFISMAIL-IT/PORTFOLIO/commits/main)
-[![Made with HTML](https://img.shields.io/badge/Made%20with-HTML%20%26%20CSS-blue)](https://github.com/YOOSUFISMAIL-IT/PORTFOLIO)
+[![GitHub stars](yoosufismail-portfolio.netlify.app)]
 
 A modern, responsive personal portfolio website to showcase my work, skills, and professional journey as a developer/designer.
 
