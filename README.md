@@ -3,11 +3,12 @@
 
 # 💼 Personal Portfolio
 
-[![GitHub stars](yoosufismail-portfolio.netlify.app)]
+(yoosufismail-portfolio.netlify.app)]
 
 A modern, responsive personal portfolio website to showcase my work, skills, and professional journey as a developer/designer.
 
-![Portfolio Preview](https://via.placeholder.com/800x400?text=Portfolio+Screenshot)  
+![Portfolio Preview](![Uploading Screenshot 2026-05-22 235135.png…]()
+)  
 *(Replace this placeholder with an actual screenshot of your portfolio)*
 
 ## 🚀 Live Demo
