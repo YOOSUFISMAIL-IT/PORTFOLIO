@@ -1,10 +1,6 @@
-Based on the GitHub repository you shared, I have analyzed its content and structure. The repository is a **personal portfolio website** built primarily with HTML (96.5%) and CSS (3.5%), created by Yoosuf Ismail.
 
-Below is a professional `README.md` file crafted specifically for this project. You can copy this text and save it as `README.md` in the root of your repository.
 
----
 
-```markdown
 # 💼 Personal Portfolio
 
 [![GitHub stars](https://img.shields.io/github/stars/YOOSUFISMAIL-IT/PORTFOLIO?style=social)](https://github.com/YOOSUFISMAIL-IT/PORTFOLIO/stargazers)
